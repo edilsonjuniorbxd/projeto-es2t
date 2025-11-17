@@ -231,8 +231,8 @@ main#pg01 article div.img {
 main#pg01 article div.img img {
     padding-top: 10px;
     display: inline-block;
-    height: 40vh;
-    width: 30vw;
+    height: 33vh;
+    width: 33vw;
     max-width: 200px;
     margin: 0vh 1vw;
 }
@@ -304,8 +304,8 @@ main#pg02 article div.img {
 main#pg02 article div.img img {
     padding-top: 10px;
     display: inline-block;
-    height: 40vh;
-    width: 30vw;
+    height: 33vh;
+    width: 33vw;
     max-width: 200px;
     margin: 0vh 5px;
 }
@@ -374,9 +374,9 @@ main#pg03 article div.video {
 }
 
 main#pg03 article iframe {
-    max-height: 40vh;
+    max-height: 35vh;
     min-width: 30vw;
-    max-width: 50vw;
+    max-width: 55vw;
 }
 
 main#pg03 article p.video {
@@ -444,8 +444,8 @@ main#pg04 article div.img {
 main#pg04 article div.img img {
     padding-top: 10px;
     display: inline-block;
-    height: 35vh;
-    width: 30vw;
+    height: 33vh;
+    width: 33vw;
     max-width: 200px;
     margin: 0vh 5px;
 }
